@@ -1,5 +1,5 @@
 import media
-import fresh_tomatoes1
+import fresh_tomatoes
 """Put the movies objects into the website and display them"""
 
 
