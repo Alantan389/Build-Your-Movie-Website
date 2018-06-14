@@ -75,3 +75,21 @@ justic_league=media.Movie("Justic league",
 "Zack Snyder")
 """Here are the movies objects being created,
 they attach with the movie information i want to show on the website"""
+
+
+movies=[
+justic_league,
+the_dark_knight_rises,
+prometheus,
+interstellar,
+john_wick,
+dunkirk,
+gladiator,
+titanic,
+the_shawshank_redemption,
+]
+"""Store the movie objects in a list"""
+
+
+fresh_tomatoes1.open_movies_page(movies)
+"""Open the movies in user's browser."""
